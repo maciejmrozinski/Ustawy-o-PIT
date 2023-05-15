@@ -5,7 +5,7 @@
 ### Art. 1. [zakres]
 
 1. Ustawa reguluje opodatkowanie dochodów osób fizycznych.
-1. Przepisy ustawy stosuje się z uwzględnieniem umów w sprawie unikania podwójnego opodatkowania, których stroną jest Rzeczpospolita Polska.
+2. Przepisy ustawy stosuje się z uwzględnieniem umów w sprawie unikania podwójnego opodatkowania, których stroną jest Rzeczpospolita Polska.
 
 ### Art. 2. [rok podatkowy]
 
@@ -14,44 +14,43 @@ Dla celów niniejszej ustawy rok podatkowy jest tożsamy z rokiem kalendarzowym.
 ### Art. 3. [wyłączenia]
 
 1. Przepisów ustawy nie stosuje się do:
-   1) przychodów z działalności rolniczej oraz leśnej
-   1) przychodów z działalności gospodarczej;
-   1) przychodów z kapitałów pieniężnych;
-   1) spadków i darowizn;
-   1) przychodów z tytułu zmiany małżeńskiego ustroju majątkowego;
-   1) przychodów wynikających z czynności, które nie mogą być przedmiotem prawnie skutecznej umowy.
-1. Przepisów niniejszej ustawy nie stosuje się również do dochodów, które zostały opodatkowane odmiennie lub zwolnione z opodatkowania na gruncie innych ustaw.
+   1. przychodów z działalności rolniczej oraz leśnej
+   2. przychodów z działalności gospodarczej;
+   3. przychodów z kapitałów pieniężnych;
+   4. spadków i darowizn;
+   5. przychodów z tytułu zmiany małżeńskiego ustroju majątkowego;
+   6. przychodów wynikających z czynności, które nie mogą być przedmiotem prawnie skutecznej umowy.
+2. Przepisów niniejszej ustawy nie stosuje się również do dochodów, które zostały opodatkowane odmiennie lub zwolnione z opodatkowania na gruncie innych ustaw.
 
 ### Art. 4. [rezydencja]
 
 1. Osoby fizyczne, jeżeli mają miejsce zamieszkania na terytorium Rzeczypospolitej Polskiej, podlegają obowiązkowi podatkowemu od całości swoich dochodów (przychodów) bez względu na miejsce położenia źródeł przychodów (nieograniczony obowiązek podatkowy).
-1. Za osobę mającą miejsce zamieszkania na terytorium Rzeczypospolitej Polskiej uważa się osobę fizyczną, która:
-1) posiada na terytorium Rzeczypospolitej Polskiej centrum interesów osobistych lub gospodarczych (ośrodek interesów życiowych) lub
-1) przebywa na terytorium Rzeczypospolitej Polskiej dłużej niż 183 dni w roku podatkowym.
-
-   3. Osoby fizyczne, jeżeli nie mają na terytorium Rzeczypospolitej Polskiej miejsca zamieszkania, podlegają obowiązkowi podatkowemu tylko od dochodów (przychodów) osiąganych na terytorium Rzeczypospolitej Polskiej (ograniczony obowiązek podatkowy).
+2. Za osobę mającą miejsce zamieszkania na terytorium Rzeczypospolitej Polskiej uważa się osobę fizyczną, która:
+   1. posiada na terytorium Rzeczypospolitej Polskiej centrum interesów osobistych lub gospodarczych (ośrodek interesów życiowych) lub
+   2. przebywa na terytorium Rzeczypospolitej Polskiej dłużej niż 183 dni w roku podatkowym.
+3. Osoby fizyczne, jeżeli nie mają na terytorium Rzeczypospolitej Polskiej miejsca zamieszkania, podlegają obowiązkowi podatkowemu tylko od dochodów (przychodów) osiąganych na terytorium Rzeczypospolitej Polskiej (ograniczony obowiązek podatkowy).
 
 ### Art. 5. [wspólne rozliczenie]
 
 1. Małżonkowie podlegający obowiązkowi podatkowemu na mocy niniejszej ustawy, mogą na zgodny wniosek wspólnie rozliczyć osiągnięte dochody.
 2. Dochody małoletnich dzieci własnych i przysposobionych podlegają odrębnemu opodatkowaniu.
-2. Zasady i sposób opodatkowania, o którym mowa w ust. 1, ma zastosowanie również do osoby samotnie wychowującej dzieci:
-   1) małoletnie;
-   1) pełnoletnie, które zgodnie z odrębnymi przepisami otrzymywały zasiłek (dodatek) pielęgnacyjny lub rentę socjalną.
-2. W przypadku opieki naprzemiennej osoba samotnie wychowująca dzieci również może rozliczyć się wspólnie, przy czym dodatkowe pomniejszenie nie może przekroczyć połowy kwoty, o której mowa art. 9 ust. 2.
+3. Zasady i sposób opodatkowania, o którym mowa w ust. 1, ma zastosowanie również do osoby samotnie wychowującej dzieci:
+   1. małoletnie;
+   2. pełnoletnie, które zgodnie z odrębnymi przepisami otrzymywały zasiłek (dodatek) pielęgnacyjny lub rentę socjalną.
+4. W przypadku opieki naprzemiennej osoba samotnie wychowująca dzieci również może rozliczyć się wspólnie, przy czym dodatkowe pomniejszenie nie może przekroczyć połowy kwoty, o której mowa art. 9 ust. 2.
 
 ## Rozdział 2 - *Źródła przychodów*
 
 ### Art. 6. [źródła przychodów]
 
 1. Źródłami przychodów na gruncie ustawy są:
-   1) stosunek pracy;
-   1) wykonywanie usług;
-   1) emerytura lub renta;
-   1) nieujawnione przychody;
-   1) rzeczy lub prawa;
-   1) inne źródła przychodu.
-1. Przychody, o których mowa w ust. 1, powstają w momencie otrzymania lub postawienia do dyspozycji podatnika.
+   1. stosunek pracy;
+   2. wykonywanie usług;
+   3. emerytura lub renta;
+   4. nieujawnione przychody;
+   5. rzeczy lub prawa;
+   6. inne źródła przychodu.
+2. Przychody, o których mowa w ust. 1, powstają w momencie otrzymania lub postawienia do dyspozycji podatnika.
 
 ### Art. 7. [kursy walut]
 
@@ -60,16 +59,16 @@ Wartości wyrażone w walutach obcych przelicza się na złote według kursu śr
 ### Art. 8. [zwolnienie]
 
 1. Zwolnione przedmiotowo z podatku dochodowego są stypendia, zasiłki, świadczenia rodzinne, odszkodowania, nagrody uzyskane z gier hazardowych oraz inne przychody wskazane w rozporządzeniu.
-1. Minister właściwy do spraw finansów określa, w drodze rozporządzenia, zakres przedmiotowy powyższych zwolnień.
-1. Przepisów ustawy nie stosuje się również do diet z tytułu podróży w określonych limitach, zwrotu poniesionych wydatków w kwocie faktycznej albo zryczałtowanej na podstawie odrębnych przepisów.
+2. Minister właściwy do spraw finansów określa, w drodze rozporządzenia, zakres przedmiotowy powyższych zwolnień.
+3. Przepisów ustawy nie stosuje się również do diet z tytułu podróży w określonych limitach, zwrotu poniesionych wydatków w kwocie faktycznej albo zryczałtowanej na podstawie odrębnych przepisów.
 
 ## Rozdział 3 - *Podstawa obliczenia i wysokość podatku*
 
 ### Art. 9. [podstawa]
 
 1. Podstawę obliczenia podatku stanowi osiągnięta w roku podatkowym suma przychodów.
-1. Podstawę opodatkowania pomniejsza się o dwunastokrotność minimalnego wynagrodzenia, o którym mowa w rozporządzeniu wydanym na podstawie art. 2 ust. 5 ustawy z dnia 10 października 2002 r. o minimalnym wynagrodzeniu za pracę.
-1. Podatek dochodowy pobiera się od podstawy jego obliczenia według 12% stawki.
+2. Podstawę opodatkowania pomniejsza się o dwunastokrotność minimalnego wynagrodzenia, o którym mowa w rozporządzeniu wydanym na podstawie art. 2 ust. 5 ustawy z dnia 10 października 2002 r. o minimalnym wynagrodzeniu za pracę.
+3. Podatek dochodowy pobiera się od podstawy jego obliczenia według 12% stawki.
 
 ### Art. 10. [dochody zagraniczne]
 
@@ -80,82 +79,77 @@ Jeżeli osoba mająca miejsce zamieszkania na terytorium Rzeczypospolitej Polski
 ### Art. 11. [sprzedaż rzeczy]
 
 1. Opodatkowaniu podlega odpłatne zbycie, z zastrzeżeniem art. 12:
-1) nieruchomości lub ich części oraz udziału w nieruchomości,
-1) spółdzielczego własnościowego prawa do lokalu mieszkalnego lub użytkowego oraz prawa do domu jednorodzinnego w spółdzielni mieszkaniowej,
-1) prawa wieczystego użytkowania gruntów,
-
-– jeżeli nie następuje w wykonaniu działalności gospodarczej i zostało dokonane w przypadku odpłatnego zbycia nieruchomości i praw majątkowych przed upływem pięciu lat, licząc od końca roku kalendarzowego, w którym nastąpiło nabycie.
-
+   1. nieruchomości lub ich części oraz udziału w nieruchomości,
+   2. spółdzielczego własnościowego prawa do lokalu mieszkalnego lub użytkowego oraz prawa do domu jednorodzinnego w spółdzielni mieszkaniowej,
+   3. prawa wieczystego użytkowania gruntów, jeżeli nie następuje w wykonaniu działalności gospodarczej i zostało dokonane w przypadku odpłatnego zbycia nieruchomości i praw majątkowych przed upływem pięciu lat, licząc od końca roku kalendarzowego, w którym nastąpiło nabycie.
 2. Opodatkowaniu podlega odpłatne zbycie innych rzeczy, z zastrzeżeniem art. 12, jeżeli nie następuje w wykonaniu działalności gospodarczej i zostało dokonane przed upływem pół roku, licząc od końca miesiąca, w którym nastąpiło nabycie.
-2. W przypadku zamiany okresy te odnoszą się do każdej z osób dokonującej zamiany.
+3. W przypadku zamiany okresy te odnoszą się do każdej z osób dokonującej zamiany.
 
 ### Art. 12. [wyłączenie]
 
 Przepisów art. 11 nie stosuje się do odpłatnego zbycia:
-
-1) na podstawie umowy przewłaszczenia w celu zabezpieczenia wierzytelności, w tym pożyczki lub kredytu – do czasu ostatecznego przeniesienia własności przedmiotu umowy;
-1) w formie wniesienia wkładu niepieniężnego do spółki lub spółdzielni środków obrotowych, środków trwałych lub wartości niematerialnych i prawnych;
-1) składników majątku związanych z prowadzoną działalnością gospodarczą, jeżeli przed zbyciem zostały wycofane z działalności gospodarczej, a między pierwszym dniem miesiąca następującego po miesiącu, w którym składniki majątku zostały wycofane z działalności i dniem ich odpłatnego zbycia, nie upłynęło 6 lat.
+1. na podstawie umowy przewłaszczenia w celu zabezpieczenia wierzytelności, w tym pożyczki lub kredytu – do czasu ostatecznego przeniesienia własności przedmiotu umowy;
+2. w formie wniesienia wkładu niepieniężnego do spółki lub spółdzielni środków obrotowych, środków trwałych lub wartości niematerialnych i prawnych;
+3. składników majątku związanych z prowadzoną działalnością gospodarczą, jeżeli przed zbyciem zostały wycofane z działalności gospodarczej, a między pierwszym dniem miesiąca następującego po miesiącu, w którym składniki majątku zostały wycofane z działalności i dniem ich odpłatnego zbycia, nie upłynęło 6 lat.
 
 ### Art. 13. [okres karencji]
 
 1. W przypadku odpłatnego zbycia, nabytych w drodze spadku, rzeczy lub praw majątkowych, okres, o którym mowa w art. 11, liczy się od końca roku kalendarzowego, w którym nastąpiło nabycie rzeczy lub prawa majątkowego przez spadkodawcę.
-1. W przypadku odpłatnego zbycia po ustaniu wspólności majątkowej małżeńskiej, nabytych do majątku wspólnego małżonków w trakcie trwania wspólności majątkowej małżeńskiej rzeczy lub praw majątkowych, określonych w art. 11, okres, o którym mowa w tym przepisie, liczy się od końca roku kalendarzowego, w którym nastąpiło ich nabycie do majątku wspólnego małżonków w trakcie trwania wspólności majątkowej małżeńskiej.
-1. Nie stanowi nabycia albo odpłatnego zbycia, o którym mowa w art. 11, odpowiednio nabycie albo odpłatne zbycie, w drodze działu spadku, rzeczy lub praw majątkowych do wysokości przysługującego podatnikowi udziału w spadku.
+2. W przypadku odpłatnego zbycia po ustaniu wspólności majątkowej małżeńskiej, nabytych do majątku wspólnego małżonków w trakcie trwania wspólności majątkowej małżeńskiej rzeczy lub praw majątkowych, określonych w art. 11, okres, o którym mowa w tym przepisie, liczy się od końca roku kalendarzowego, w którym nastąpiło ich nabycie do majątku wspólnego małżonków w trakcie trwania wspólności majątkowej małżeńskiej.
+3. Nie stanowi nabycia albo odpłatnego zbycia, o którym mowa w art. 11, odpowiednio nabycie albo odpłatne zbycie, w drodze działu spadku, rzeczy lub praw majątkowych do wysokości przysługującego podatnikowi udziału w spadku.
 
 ### Art. 14. [wysokość podatku]
 
 1. Od dochodu z odpłatnego zbycia rzeczy i praw majątkowych podatek dochodowy wynosi 12% podstawy obliczenia podatku.
-1. Podstawą obliczenia podatku, o której mowa w ust. 1, jest dochód stanowiący różnicę pomiędzy przychodem z odpłatnego zbycia rzeczy lub praw majątkowych, a udokumentowanymi kosztami nabycia lub poniesionymi nakładami.
+2. Podstawą obliczenia podatku, o której mowa w ust. 1, jest dochód stanowiący różnicę pomiędzy przychodem z odpłatnego zbycia rzeczy lub praw majątkowych, a udokumentowanymi kosztami nabycia lub poniesionymi nakładami.
 
 ### Art. 15. [wynajem prywatny]
 
 1. Opodatkowaniu podlega przychód z wynajmu, dzierżawy oraz innych umów o podobnym charakterze, z wyjątkiem składników majątku związanych z działalnością gospodarczą.
-1. Podstawę obliczenia podatku, o którym mowa w ust. 1, stanowi przychód z wyłączeniem zwróconych wydatków eksploatacyjnych.
-1. Wydatkami eksploatacyjnymi są wydatki na prąd, wodę, gaz, opłata za wywóz śmieci oraz inne opłaty ustalone przez wspólnotę lub spółdzielnie mieszkaniową.
-1. Podatek dochodowy pobiera się od podstawy jego obliczenia według 8% stawki od przychodów.
-1. Przychodów tych nie łączy się z innymi dochodami (przychodami).
+2. Podstawę obliczenia podatku, o którym mowa w ust. 1, stanowi przychód z wyłączeniem zwróconych wydatków eksploatacyjnych.
+3. Wydatkami eksploatacyjnymi są wydatki na prąd, wodę, gaz, opłata za wywóz śmieci oraz inne opłaty ustalone przez wspólnotę lub spółdzielnie mieszkaniową.
+4. Podatek dochodowy pobiera się od podstawy jego obliczenia według 8% stawki od przychodów.
+5. Przychodów tych nie łączy się z innymi dochodami (przychodami).
 
 ## Rozdział 5 - *Ulgi podatkowe*
 
 ### Art. 16. [ulga dla młodych]
 
 1. Zwalnia się przychody podlegające pod opodatkowanie na gruncie niniejszej ustawy, z wyłączeniem Rozdziału 4, otrzymane przez podatnika do ukończenia 26. roku życia, do wysokości nieprzekraczającej w roku podatkowym kwoty 85 528 zł.
-1. Nadwyżka ponad tę kwotę otrzymana przez podatnika, o którym mowa w ust. 1, opodatkowana jest zgodnie z przepisami Rozdziału 3.
+2. Nadwyżka ponad tę kwotę otrzymana przez podatnika, o którym mowa w ust. 1, opodatkowana jest zgodnie z przepisami Rozdziału 3.
 
 ### Art. 17. [ulga na dzieci]
 
 1. Od podstawy opodatkowania podatnik ma prawo odliczyć kwotę obliczoną zgodnie z ust. 2 na każde małoletnie dziecko, w stosunku do którego w roku podatkowym:
-   1) wykonywał władzę rodzicielską;
-   1) pełnił funkcję opiekuna prawnego, jeżeli dziecko z nim zamieszkiwało;
-   1) sprawował opiekę poprzez pełnienie funkcji rodziny zastępczej na podstawie orzeczenia sądu lub umowy zawartej ze starostą.
-1. Odliczeniu podlega kwota 500 zł za każdy miesiąc kalendarzowy roku podatkowego, w którym podatnik wykonywał władzę, pełnił funkcję albo sprawował opiekę, o których mowa w ust. 1, w stosunku do:
-1) małoletniego dziecka;
-1) pełnoletniego dziecka, które zgodnie z odrębnymi przepisami otrzymywały zasiłek (dodatek) pielęgnacyjny lub rentę socjalną.
-
-   3. W przypadku gdy w tym samym miesiącu kalendarzowym w stosunku do dziecka wykonywana jest władza, pełniona funkcja lub sprawowana opieka, o których mowa w ust. 1, każdemu z podatników przysługuje odliczenie w kwocie stanowiącej 1/30 kwoty obliczonej zgodnie z ust. 2 za każdy dzień sprawowania pieczy nad dzieckiem.
-   3. Odliczenie dotyczy łącznie obojga rodziców, opiekunów prawnych dziecka albo rodziców zastępczych pozostających w związku małżeńskim. Kwotę tę podatnicy mogą odliczyć od podatku w dowolnej proporcji przez nich ustalonej. W przypadku braku porozumienia, kwotę tę podatnicy odliczają w częściach równych. W pozostałych przypadkach odliczenie w wysokości 100% stosuje podatnik, u którego dziecko ma miejsce zamieszkania w rozumieniu przepisów prawa cywilnego.
-   3. Kwota, o której mowa w ust. 2, będzie corocznie podwyższana w stopniu odpowiadającym wskaźnikowi wzrostu cen towarów i usług konsumpcyjnych w okresie pierwszych trzech kwartałów roku poprzedzającego rok podatkowy w stosunku do tego samego okresu roku ubiegłego, ogłaszanemu przez Prezesa Głównego Urzędu Statystycznego w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”.
+   1. wykonywał władzę rodzicielską;
+   2. pełnił funkcję opiekuna prawnego, jeżeli dziecko z nim zamieszkiwało;
+   3. sprawował opiekę poprzez pełnienie funkcji rodziny zastępczej na podstawie orzeczenia sądu lub umowy zawartej ze starostą.
+2. Odliczeniu podlega kwota 500 zł za każdy miesiąc kalendarzowy roku podatkowego, w którym podatnik wykonywał władzę, pełnił funkcję albo sprawował opiekę, o których mowa w ust. 1, w stosunku do:
+   1. małoletniego dziecka;
+   2. pełnoletniego dziecka, które zgodnie z odrębnymi przepisami otrzymywały zasiłek (dodatek) pielęgnacyjny lub rentę socjalną.
+3. W przypadku gdy w tym samym miesiącu kalendarzowym w stosunku do dziecka wykonywana jest władza, pełniona funkcja lub sprawowana opieka, o których mowa w ust. 1, każdemu z podatników przysługuje odliczenie w kwocie stanowiącej 1/30 kwoty obliczonej zgodnie z ust. 2 za każdy dzień sprawowania pieczy nad dzieckiem.
+4. Odliczenie dotyczy łącznie obojga rodziców, opiekunów prawnych dziecka albo rodziców zastępczych pozostających w związku małżeńskim. Kwotę tę podatnicy mogą odliczyć od podatku w dowolnej proporcji przez nich ustalonej. W przypadku braku porozumienia, kwotę tę podatnicy odliczają w częściach równych. W pozostałych przypadkach odliczenie w wysokości 100% stosuje podatnik, u którego dziecko ma miejsce zamieszkania w rozumieniu przepisów prawa cywilnego.
+5. Kwota, o której mowa w ust. 2, będzie corocznie podwyższana w stopniu odpowiadającym wskaźnikowi wzrostu cen towarów i usług konsumpcyjnych w okresie pierwszych trzech kwartałów roku poprzedzającego rok podatkowy w stosunku do tego samego okresu roku ubiegłego, ogłaszanemu przez Prezesa Głównego Urzędu Statystycznego w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”.
 
 ### Art. 18. [ulga na rehabilitację]
 
 1. Od podstawy opodatkowania podatnik będący osobą niepełnosprawną lub podatnik, na którego utrzymaniu są osoby niepełnosprawne ma prawo odliczyć wydatki poniesione na cele rehabilitacyjne.
-1. Minister właściwy do spraw finansów w porozumieniu z ministrem właściwym do spraw zdrowia określa, w drodze rozporządzenia, katalog wydatków, o których mowa w ust. 1, kierując się w szczególności ułatwieniem wykonywania czynności życiowych przez osoby niepełnosprawne.
-1. Odliczeniu nie podlegają wydatki w takiej części, w jakiej zostały zwrócone podatnikowi w jakiejkolwiek formie.
-1. Warunkiem odliczenia wydatków, o których mowa w ust. 2, jest posiadanie przez osobę, której dotyczy wydatek:
-1) orzeczenia o zakwalifikowaniu przez organy orzekające do jednego z trzech stopni niepełnosprawności, określonych w odrębnych przepisach, lub
-2) decyzji przyznającej rentę z tytułu całkowitej lub częściowej niezdolności do pracy, rentę szkoleniową albo rentę socjalną, albo
-2) orzeczenia o niepełnosprawności osoby, która nie ukończyła 16 roku życia, wydanego na podstawie odrębnych przepisów.
+2. Minister właściwy do spraw finansów w porozumieniu z ministrem właściwym do spraw zdrowia określa, w drodze rozporządzenia, katalog wydatków, o których mowa w ust. 1, kierując się w szczególności ułatwieniem wykonywania czynności życiowych przez osoby niepełnosprawne.
+3. Odliczeniu nie podlegają wydatki w takiej części, w jakiej zostały zwrócone podatnikowi w jakiejkolwiek formie.
+4. Warunkiem odliczenia wydatków, o których mowa w ust. 2, jest posiadanie przez osobę, której dotyczy wydatek:
+   1. orzeczenia o zakwalifikowaniu przez organy orzekające do jednego z trzech stopni niepełnosprawności, określonych w odrębnych przepisach, lub
+   2. decyzji przyznającej rentę z tytułu całkowitej lub częściowej niezdolności do pracy, rentę szkoleniową albo rentę socjalną, albo
+   3. orzeczenia o niepełnosprawności osoby, która nie ukończyła 16 roku życia, wydanego na podstawie odrębnych przepisów.
 
 ### Art. 19. [ulga dla emerytów]
 
 1. Zwalnia się przychody podlegające pod opodatkowanie na gruncie niniejszej ustawy, z wyłączeniem Rozdziału 4, otrzymane przez podatnika po ukończeniu wieku emerytalnego, do wysokości nieprzekraczającej w roku podatkowym kwoty 85 528 zł, pod warunkiem niepobierania przez tegoż podatnika świadczenia emerytalnego.
-1. Nadwyżka ponad tę kwotę otrzymana przez podatnika, o którym mowa w ust. 1, opodatkowana jest zgodnie z przepisami Rozdziału 3.
+2. Nadwyżka ponad tę kwotę otrzymana przez podatnika, o którym mowa w ust. 1, opodatkowana jest zgodnie z przepisami Rozdziału 3.
 
 ### Art. 20. [ulga kredytowa]
 
 1. Podatnik, który zaciągnął kredyt hipoteczny, ma prawo obniżyć podstawę opodatkowania z art. 8 o sumę faktycznie poniesionych odsetkowych i pozaodsetkowych kosztów kredytu hipotecznego w danym roku podatkowym, na jedną nieruchomość mieszkalną, której podatnik ten jest właścicielem lub współwłaścicielem.
-1. W przypadku małżonków posiadających wspólność majątkową, rozliczających się na podstawie art. 4, podstawę opodatkowania obniża się o dwukrotność sumy odsetek i pozaodsetkowych kosztów kredytu hipotecznego na jedną nieruchomość mieszkalną.
+2. W przypadku małżonków posiadających wspólność majątkową, rozliczających się na podstawie art. 4, podstawę opodatkowania obniża się o dwukrotność sumy odsetek i pozaodsetkowych kosztów kredytu hipotecznego na jedną nieruchomość mieszkalną.
 
 ## Rozdział 6 - *Opodatkowanie przychodów nieujawnionych*
 
