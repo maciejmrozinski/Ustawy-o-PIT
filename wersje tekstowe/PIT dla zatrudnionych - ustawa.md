@@ -88,6 +88,7 @@ Jeżeli osoba mająca miejsce zamieszkania na terytorium Rzeczypospolitej Polski
 ### Art. 12. [wyłączenie]
 
 Przepisów art. 11 nie stosuje się do odpłatnego zbycia:
+
 1. na podstawie umowy przewłaszczenia w celu zabezpieczenia wierzytelności, w tym pożyczki lub kredytu – do czasu ostatecznego przeniesienia własności przedmiotu umowy;
 2. w formie wniesienia wkładu niepieniężnego do spółki lub spółdzielni środków obrotowych, środków trwałych lub wartości niematerialnych i prawnych;
 3. składników majątku związanych z prowadzoną działalnością gospodarczą, jeżeli przed zbyciem zostały wycofane z działalności gospodarczej, a między pierwszym dniem miesiąca następującego po miesiącu, w którym składniki majątku zostały wycofane z działalności i dniem ich odpłatnego zbycia, nie upłynęło 6 lat.
@@ -160,47 +161,47 @@ Za przychody nieujawnione uważa się kwotę odpowiadającą nadwyżce wydatku n
 ### Art. 22. [wykrycie nadwyżki]
 
 1. Obowiązek podatkowy z tytułu przychodów nieujawnionych powstaje na ostatni dzień roku podatkowego, w którym powstał przychód w kwocie odpowiadającej nadwyżce wydatku nad przychodami (dochodami) opodatkowanymi lub przychodami (dochodami) nieopodatkowanymi.
-1. Postępowania w sprawie opodatkowania przychodów nieujawnionych nie wszczyna się, a wszczęte umarza, jeżeli kwota nadwyżki wydatku nad przychodami (dochodami) opodatkowanymi lub przychodami (dochodami) nieopodatkowanymi nie przekroczyła 60-krotności wynagrodzenia, o którym mowa w rozporządzeniu wydanym na podstawie art. 2 ust. 5 ustawy z dnia 10 października 2002 r. o minimalnym wynagrodzeniu za pracę.
+2. Postępowania w sprawie opodatkowania przychodów nieujawnionych nie wszczyna się, a wszczęte umarza, jeżeli kwota nadwyżki wydatku nad przychodami (dochodami) opodatkowanymi lub przychodami (dochodami) nieopodatkowanymi nie przekroczyła 60-krotności wynagrodzenia, o którym mowa w rozporządzeniu wydanym na podstawie art. 2 ust. 5 ustawy z dnia 10 października 2002 r. o minimalnym wynagrodzeniu za pracę.
 
 ### Art. 23. [sankcyjny podatek]
 
 1. Od przychodów nieujawnionych właściwy organ podatkowy w drodze decyzji wymierza podatek dochodowy w 75% stawce.
-1. W przypadku ustalenia w toku postępowania podatkowego albo w toku kontroli celno-skarbowej źródła pochodzenia nieujawnionych uprzednio przychodów (dochodów) i ich wysokości, przychody (dochody) te podlegają opodatkowaniu podatkiem na zasadach określonych w przepisach ustawy innych niż przepisy niniejszego rozdziału lub w przepisach odrębnych ustaw.
+2. W przypadku ustalenia w toku postępowania podatkowego albo w toku kontroli celno-skarbowej źródła pochodzenia nieujawnionych uprzednio przychodów (dochodów) i ich wysokości, przychody (dochody) te podlegają opodatkowaniu podatkiem na zasadach określonych w przepisach ustawy innych niż przepisy niniejszego rozdziału lub w przepisach odrębnych ustaw.
 
 ### Art. 24. [ciężar dowodu]
 
 1. W toku postępowania podatkowego albo w toku kontroli celno-skarbowej ciężar dowodu w zakresie wykazania przychodów (dochodów) opodatkowanych lub przychodów (dochodów) nieopodatkowanych stanowiących pokrycie wydatku spoczywa na podatniku.
-1. Jeżeli w toku postępowania podatkowego albo w toku kontroli celno-skarbowej podatnik nie udowodni uzyskania przychodów (dochodów) opodatkowanych lub przychodów (dochodów) nieopodatkowanych, stanowiących pokrycie wydatku i nastąpiło przedawnienie zobowiązania podatkowego w stosunku do tych przychodów (dochodów), to ich uzyskanie podatnik może uprawdopodobnić.
-1. Jeżeli podatnik nie wskazał, którymi przychodami (dochodami) opodatkowanymi lub przychodami (dochodami) nieopodatkowanymi pokrył poszczególne wydatki, stosuje się zasadę, że najwcześniejszy wydatek jest pokrywany najwcześniejszymi przychodami (dochodami) opodatkowanymi lub przychodami (dochodami) nieopodatkowanymi.
+2. Jeżeli w toku postępowania podatkowego albo w toku kontroli celno-skarbowej podatnik nie udowodni uzyskania przychodów (dochodów) opodatkowanych lub przychodów (dochodów) nieopodatkowanych, stanowiących pokrycie wydatku i nastąpiło przedawnienie zobowiązania podatkowego w stosunku do tych przychodów (dochodów), to ich uzyskanie podatnik może uprawdopodobnić.
+3. Jeżeli podatnik nie wskazał, którymi przychodami (dochodami) opodatkowanymi lub przychodami (dochodami) nieopodatkowanymi pokrył poszczególne wydatki, stosuje się zasadę, że najwcześniejszy wydatek jest pokrywany najwcześniejszymi przychodami (dochodami) opodatkowanymi lub przychodami (dochodami) nieopodatkowanymi.
 
 ## Rozdział 7 - *Pobór podatku lub zaliczek na podatek*
 
 ### Art. 25. [zaliczki na podatek]
 
 1. Do poboru zaliczek miesięcznych jako płatnicy obowiązane są podmioty prowadzące działalność gospodarczą, wypłacające przychód, z wyłączeniem Rozdziału 4.
-1. Zaliczki na podatek obliczane są w sposób narastający według właściwej stawki.
-1. Zaliczki są płatne do końca następnego miesiąca z uwzględnieniem 1/12 kwoty, o której mowa w art. 7 ust. 2.
-1. Na wniosek podatnika przychód może być pomniejszony o różną część kwoty, o której mowa w art. 7 ust. 2, w poszczególnych miesiącach roku podatkowego.
+2. Zaliczki na podatek obliczane są w sposób narastający według właściwej stawki.
+3. Zaliczki są płatne do końca następnego miesiąca z uwzględnieniem 1/12 kwoty, o której mowa w art. 7 ust. 2.
+4. Na wniosek podatnika przychód może być pomniejszony o różną część kwoty, o której mowa w art. 7 ust. 2, w poszczególnych miesiącach roku podatkowego.
 
 ### Art. 26. [zeznania podatkowe]
 
 1. Podatnicy są obowiązani składać urzędom skarbowym zeznanie, według ustalonego wzoru, o wysokości osiągniętego przychodu w roku podatkowym do dnia 30 kwietnia roku następującego po roku podatkowym.
-1. W przypadku niezłożenia w terminie zeznania, o którym mowa w ust. 1, właściwy naczelnik urzędu skarbowego przygotuje i złoży zeznanie za podatnika na podstawie wpłaconych zaliczek.
+2. W przypadku niezłożenia w terminie zeznania, o którym mowa w ust. 1, właściwy naczelnik urzędu skarbowego przygotuje i złoży zeznanie za podatnika na podstawie wpłaconych zaliczek.
 3. Przed upływem terminu określonego na złożenie zeznania podatnicy są obowiązani wpłacić różnicę między podatkiem należnym wynikającym z zeznania, o którym mowa w ust. 1, a sumą zapłaconych za dany rok zaliczek, w tym również sumą zaliczek pobranych przez płatników.
-3. Minister właściwy do spraw finansów określa, w drodze rozporządzenia, wzory zeznań lub informacji składanych przez podatników lub płatników oraz kwestie techniczne z tym związane.
+4. Minister właściwy do spraw finansów określa, w drodze rozporządzenia, wzory zeznań lub informacji składanych przez podatników lub płatników oraz kwestie techniczne z tym związane.
 
 ### Art. 27. [wina organu]
 
 1. W przypadku stwierdzenia przez organ podatkowy, że złożone zeznanie zawiera błędy lub oczywiste omyłki powstałe z winy organu podatkowego, organ podatkowy koryguje zeznanie, dokonując stosownych poprawek lub uzupełnień.
-1. Od zaległości związanych z korektą zeznania, o której mowa w ust. 1, nie nalicza się odsetek za zwłokę za okres od dnia następującego po upływie terminu płatności podatku do dnia upływu terminu do wniesienia sprzeciwu..
-1. W przypadku gdy przed dokonaniem korekty zeznania przez organ podatkowy podatnik skoryguje zeznanie w zakresie, o którym mowa w ust. 1, od zaległości związanych z korektą zeznania nie nalicza się odsetek za zwłokę za okres od dnia następującego po upływie terminu płatności podatku do dnia złożenia korekty.
+2. Od zaległości związanych z korektą zeznania, o której mowa w ust. 1, nie nalicza się odsetek za zwłokę za okres od dnia następującego po upływie terminu płatności podatku do dnia upływu terminu do wniesienia sprzeciwu..
+3. W przypadku gdy przed dokonaniem korekty zeznania przez organ podatkowy podatnik skoryguje zeznanie w zakresie, o którym mowa w ust. 1, od zaległości związanych z korektą zeznania nie nalicza się odsetek za zwłokę za okres od dnia następującego po upływie terminu płatności podatku do dnia złożenia korekty.
 
 ### Art. 28. [procent na OPP]
 
 1. Naczelnik urzędu skarbowego właściwy miejscowo dla złożenia zeznania podatkowego, na wniosek podatnika, przekazuje na rzecz jednej organizacji pożytku publicznego działającej na podstawie ustawy o działalności pożytku publicznego, wybranej przez podatnika z wykazu, o którym mowa w ustawie o działalności pożytku publicznego, zwanej dalej „organizacją pożytku publicznego”, kwotę w wysokości 1,5% podatku należnego wynikającego ze złożonego zeznania podatkowego.
-1. W przypadku niezłożenia wniosku, o którym mowa w ust. 1, właściwy naczelnik urzędu skarbowego przekazuje 1,5% podatku należnego wynikającego ze złożonego zeznania podatkowego na rzecz organizacji pożytku publicznego, wskazanej w poprzednim zeznaniu podatkowym.
-1. Przekazanie 1,5% podatku należnego wynikającego ze złożonego zeznania podatkowego nie jest możliwe, jeżeli w roku podatkowym, którego dotyczy rozliczenie, podatnik nie zapłacił podatku dochodowego na gruncie niniejszej ustawy w kwocie przekraczającej 100 złotych.
-1. Minister właściwy do spraw finansów, uwzględniając potrzebę sprawnego zorganizowania procesu przekazywania kwot z tytułu 1,5% podatku, określi w drodze rozporządzenia, kwestie techniczne związane z poborem.
+2. W przypadku niezłożenia wniosku, o którym mowa w ust. 1, właściwy naczelnik urzędu skarbowego przekazuje 1,5% podatku należnego wynikającego ze złożonego zeznania podatkowego na rzecz organizacji pożytku publicznego, wskazanej w poprzednim zeznaniu podatkowym.
+3. Przekazanie 1,5% podatku należnego wynikającego ze złożonego zeznania podatkowego nie jest możliwe, jeżeli w roku podatkowym, którego dotyczy rozliczenie, podatnik nie zapłacił podatku dochodowego na gruncie niniejszej ustawy w kwocie przekraczającej 100 złotych.
+4. Minister właściwy do spraw finansów, uwzględniając potrzebę sprawnego zorganizowania procesu przekazywania kwot z tytułu 1,5% podatku, określi w drodze rozporządzenia, kwestie techniczne związane z poborem.
 
 ### Art. 29. [wejście w życie]
 

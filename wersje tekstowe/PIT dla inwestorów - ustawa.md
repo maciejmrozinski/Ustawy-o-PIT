@@ -16,6 +16,7 @@ Dla celów niniejszej ustawy rok podatkowy jest tożsamy z rokiem kalendarzowym.
 ### Art. 3. [przedmiot]
 
 Zyskami kapitałowymi w rozumieniu niniejszej ustawy są:
+
 1. różnice pomiędzy kwotą udzielonej pożyczki a sumą zwróconych kwot;
 2. odsetki i dyskonta od papierów wartościowych;
 3. odsetki lub inne przychody od środków pieniężnych zgromadzonych na rachunku podatnika lub w innych formach oszczędzania, przechowywania lub inwestowania;
@@ -58,6 +59,7 @@ Od uzyskanych dochodów (przychodów) pobiera się 19% zryczałtowany podatek do
 ### Art. 8. [pasywne]
 
 Podatek od przychodów pobiera się, z zastrzeżeniem art. 4 oraz 9-10, od:
+
 1. odsetek od pożyczek, z wyjątkiem gdy udzielanie pożyczek jest przedmiotem działalności gospodarczej;
 2. odsetek i dyskonta od papierów wartościowych;
 3. odsetek lub innych przychodów od środków pieniężnych zgromadzonych na rachunku podatnika lub w innych formach oszczędzania, przechowywania lub inwestowania, prowadzonych przez podmiot uprawniony na podstawie odrębnych przepisów;
@@ -75,6 +77,7 @@ Podatek od przychodów pobiera się, z zastrzeżeniem art. 4 oraz 9-10, od:
 ### Art. 10. [CIT-E]
 
 Zryczałtowany podatek od przychodów uzyskiwanych przez wspólnika z wypłat podzielonych zysków spółki osiągniętych przez tę spółkę w okresie opodatkowania ryczałtem od dochodów spółek, jeżeli pochodzą z podziału zysków z tego okresu wyodrębnionych w kapitale własnym spółki, pomniejsza się o kwotę stanowiącą:
+
 1. 90% kwoty odpowiadającej iloczynowi procentowego udziału wspólnika w zysku spółki liczonego na dzień nabycia przez niego prawa do wypłaty podzielonego zysku i należnego ryczałtu od dochodów spółek z zysku podzielonego tej spółki, z którego przychód ten został uzyskany, albo
 2. 70% kwoty odpowiadającej iloczynowi procentowego udziału wspólnika w zysku spółki liczonego na dzień nabycia przez niego prawa do wypłaty podzielonego zysku i należnego ryczałtu od dochodów spółek z zysku podzielonego tej spółki, z którego przychód ten został uzyskany.
 
