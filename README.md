@@ -6,7 +6,9 @@ Dotychczas ustawa o podatku dochodowym od osób fizycznych w połączeniu z usta
 Podstawowe założenie regulacji to niskie i proste podatki, automatyzacja rozliczeń, zachęcanie do inwestycji i przedsiębiorczości, a także wsparcie młodych i seniorów na rynku pracy.
 
 ## Aktualne wersje projektów w formacie PDF
-1. []()
+1. [PIT dla inwestorów](https://github.com/maciejmrozinski/Ustawy-o-PIT/releases/latest/download/PIT.dla.inwestorow.-.ustawa.pdf)
+2. [PIT dla przedsiębiorców](https://github.com/maciejmrozinski/Ustawy-o-PIT/releases/latest/download/PIT.dla.przedsiebiorcow.-.ustawa.pdf)
+3. [PIT dla zatrudnionych](https://github.com/maciejmrozinski/Ustawy-o-PIT/releases/latest/download/PIT.dla.zatrudnionych.-.ustawa.pdf)
 
 ## Filmy na portalu Youtube o projekcie
 1. [Sławomir Mentzen - Prezentuję niskie i proste podatki (14.05.2023)](https://www.youtube.com/watch?v=LoQkO6LaETA)
