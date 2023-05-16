@@ -1,0 +1,33 @@
+on: [push, pull_request]
+
+jobs:
+  lint:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: DavidAnson/markdownlint-cli2-action@v10
+        with:
+          globs: |
+            wersje tekstowe/*.md
+  build-release:
+    needs: lint
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+      - name: render
+        uses: baileyjm02/markdown-to-pdf@v1.2.0
+        with:
+          input_dir: wersje tekstowe
+          output_dir: pdfs
+          build_html: false
+      - name: upload
+        uses: actions/upload-artifact@v3.1.2
+        with:
+          name: Ustawy o PIT
+          path: pdfs
+      - name: Release
+        uses: softprops/action-gh-release@v1
+        with:
+          files: |
+            pdfs/*.pdf
